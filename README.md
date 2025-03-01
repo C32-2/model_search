@@ -315,3 +315,4 @@ https://cloud.google.com/automl-tables
 Изменение 2
 Изменение 3
 Ещё изменение 1
+Ещё изменение 2
